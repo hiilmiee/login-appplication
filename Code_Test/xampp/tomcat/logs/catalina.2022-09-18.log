@@ -1,0 +1,173 @@
+18-Sep-2022 04:12:23.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.78
+18-Sep-2022 04:12:23.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 16:05:28 UTC
+18-Sep-2022 04:12:23.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.78.0
+18-Sep-2022 04:12:23.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Sep-2022 04:12:23.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Sep-2022 04:12:23.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Sep-2022 04:12:23.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.4.1
+18-Sep-2022 04:12:23.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.4.1+1-LTS-2
+18-Sep-2022 04:12:23.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Sep-2022 04:12:23.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:12:23.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:12:23.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+18-Sep-2022 04:12:23.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+18-Sep-2022 04:12:23.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+18-Sep-2022 04:12:23.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+18-Sep-2022 04:12:23.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+18-Sep-2022 04:12:23.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\Users\hiilm\Documents\Code_Test\xampp\tomcat\conf\logging.properties
+18-Sep-2022 04:12:23.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Sep-2022 04:12:23.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Sep-2022 04:12:23.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Sep-2022 04:12:23.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Sep-2022 04:12:23.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:12:23.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:12:23.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\Users\hiilm\Documents\Code_Test\xampp\tomcat\temp
+18-Sep-2022 04:12:23.786 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.4.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\hiilm\AppData\Local\Microsoft\WindowsApps;C:\Users\hiilm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\hiilm\AppData\Roaming\npm;.]
+18-Sep-2022 04:12:23.875 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:12:23.909 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 567 ms
+18-Sep-2022 04:12:23.980 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Sep-2022 04:12:23.980 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.78]
+18-Sep-2022 04:12:24.000 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\docs]
+18-Sep-2022 04:12:24.366 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\docs] has finished in [366] ms
+18-Sep-2022 04:12:24.367 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\examples]
+18-Sep-2022 04:12:24.908 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\examples] has finished in [540] ms
+18-Sep-2022 04:12:24.908 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\host-manager]
+18-Sep-2022 04:12:24.955 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\host-manager] has finished in [47] ms
+18-Sep-2022 04:12:24.956 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\manager]
+18-Sep-2022 04:12:25.009 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\manager] has finished in [53] ms
+18-Sep-2022 04:12:25.010 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\ROOT]
+18-Sep-2022 04:12:25.038 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\ROOT] has finished in [27] ms
+18-Sep-2022 04:12:25.039 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:12:25.078 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1168 ms
+18-Sep-2022 04:20:48.195 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.78
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 16:05:28 UTC
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.78.0
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.4.1
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.4.1+1-LTS-2
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\conf\logging.properties
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\temp
+18-Sep-2022 04:20:48.203 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.4.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\hiilm\AppData\Local\Microsoft\WindowsApps;;C:\Users\hiilm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\hiilm\AppData\Roaming\npm;.]
+18-Sep-2022 04:20:48.266 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:20:48.281 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 512 ms
+18-Sep-2022 04:20:48.328 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Sep-2022 04:20:48.328 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.78]
+18-Sep-2022 04:20:48.344 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\docs]
+18-Sep-2022 04:20:48.672 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\docs] has finished in [328] ms
+18-Sep-2022 04:20:48.672 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\examples]
+18-Sep-2022 04:20:49.172 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\examples] has finished in [500] ms
+18-Sep-2022 04:20:49.172 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\host-manager]
+18-Sep-2022 04:20:49.219 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\host-manager] has finished in [47] ms
+18-Sep-2022 04:20:49.219 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\manager]
+18-Sep-2022 04:20:49.281 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\manager] has finished in [62] ms
+18-Sep-2022 04:20:49.281 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\ROOT]
+18-Sep-2022 04:20:49.297 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\ROOT] has finished in [16] ms
+18-Sep-2022 04:20:49.297 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:20:49.375 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1081 ms
+18-Sep-2022 04:22:40.720 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:22:40.739 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Sep-2022 04:22:40.759 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:22:40.767 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:25:54.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.78
+18-Sep-2022 04:25:54.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 16:05:28 UTC
+18-Sep-2022 04:25:54.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.78.0
+18-Sep-2022 04:25:54.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Sep-2022 04:25:54.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Sep-2022 04:25:54.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Sep-2022 04:25:54.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.4.1
+18-Sep-2022 04:25:54.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.4.1+1-LTS-2
+18-Sep-2022 04:25:54.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Sep-2022 04:25:54.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:25:54.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:25:54.621 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+18-Sep-2022 04:25:54.621 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+18-Sep-2022 04:25:54.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+18-Sep-2022 04:25:54.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+18-Sep-2022 04:25:54.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+18-Sep-2022 04:25:54.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\conf\logging.properties
+18-Sep-2022 04:25:54.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Sep-2022 04:25:54.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Sep-2022 04:25:54.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Sep-2022 04:25:54.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Sep-2022 04:25:54.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:25:54.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:25:54.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\temp
+18-Sep-2022 04:25:54.625 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.4.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\hiilm\AppData\Local\Microsoft\WindowsApps;;C:\Users\hiilm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\hiilm\AppData\Roaming\npm;.]
+18-Sep-2022 04:25:54.712 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:25:54.748 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 569 ms
+18-Sep-2022 04:25:54.807 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Sep-2022 04:25:54.808 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.78]
+18-Sep-2022 04:25:54.818 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\docs]
+18-Sep-2022 04:25:55.146 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\docs] has finished in [328] ms
+18-Sep-2022 04:25:55.147 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\examples]
+18-Sep-2022 04:25:55.623 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\examples] has finished in [475] ms
+18-Sep-2022 04:25:55.623 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\host-manager]
+18-Sep-2022 04:25:55.676 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\host-manager] has finished in [53] ms
+18-Sep-2022 04:25:55.677 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\manager]
+18-Sep-2022 04:25:55.729 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\manager] has finished in [52] ms
+18-Sep-2022 04:25:55.729 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\ROOT]
+18-Sep-2022 04:25:55.758 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\ROOT] has finished in [29] ms
+18-Sep-2022 04:25:55.761 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:25:55.806 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1056 ms
+18-Sep-2022 04:27:30.095 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.78
+18-Sep-2022 04:27:30.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 16:05:28 UTC
+18-Sep-2022 04:27:30.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.78.0
+18-Sep-2022 04:27:30.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Sep-2022 04:27:30.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Sep-2022 04:27:30.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Sep-2022 04:27:30.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.4.1
+18-Sep-2022 04:27:30.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.4.1+1-LTS-2
+18-Sep-2022 04:27:30.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Sep-2022 04:27:30.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:27:30.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:27:30.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+18-Sep-2022 04:27:30.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+18-Sep-2022 04:27:30.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+18-Sep-2022 04:27:30.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+18-Sep-2022 04:27:30.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+18-Sep-2022 04:27:30.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\conf\logging.properties
+18-Sep-2022 04:27:30.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Sep-2022 04:27:30.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Sep-2022 04:27:30.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Sep-2022 04:27:30.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Sep-2022 04:27:30.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:27:30.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat
+18-Sep-2022 04:27:30.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\temp
+18-Sep-2022 04:27:30.102 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.4.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\hiilm\AppData\Local\Microsoft\WindowsApps;;C:\Users\hiilm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\hiilm\AppData\Roaming\npm;.]
+18-Sep-2022 04:27:30.160 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:27:30.184 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 471 ms
+18-Sep-2022 04:27:30.238 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Sep-2022 04:27:30.238 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.78]
+18-Sep-2022 04:27:30.251 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\docs]
+18-Sep-2022 04:27:30.519 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\docs] has finished in [268] ms
+18-Sep-2022 04:27:30.520 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\examples]
+18-Sep-2022 04:27:31.013 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\examples] has finished in [492] ms
+18-Sep-2022 04:27:31.014 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\host-manager]
+18-Sep-2022 04:27:31.061 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\host-manager] has finished in [47] ms
+18-Sep-2022 04:27:31.061 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\manager]
+18-Sep-2022 04:27:31.107 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\manager] has finished in [46] ms
+18-Sep-2022 04:27:31.107 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\ROOT]
+18-Sep-2022 04:27:31.131 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hiilm\Documents\Code_Test\xampp\tomcat\webapps\ROOT] has finished in [24] ms
+18-Sep-2022 04:27:31.133 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:27:31.167 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 983 ms
+18-Sep-2022 04:27:51.586 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Sep-2022 04:27:51.586 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:27:51.598 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Sep-2022 04:27:51.618 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+18-Sep-2022 04:27:51.634 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

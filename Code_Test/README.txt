@@ -1,0 +1,5 @@
+- Eclipse
+- Xxamp
+- apache tomcat v8.5
+- mysql/phpadmin
+- 

@@ -1,0 +1,34 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Login Applicatioasdasdn</title>
+<script type="text/javascript" src="${pageContext.request.contextPath}/script/login.js"></script>
+</head>
+<body>
+<div style="text-align:center"><h1>Login Application</h1> </div>
+<form name="form" action="${pageContext.request.contextPath}\src\main\java\com\controller\LoginController" method="post" onsubmit="return validate()">
+        <!-- Do not use table to format fields. As a good practice use CSS -->
+        <table align="center">
+         <tr>
+         <td>Username</td>
+         <td><input type="text" name="username" /></td>
+         </tr>
+         <tr>
+         <td>Password</td>
+         <td><input type="password" name="password" /></td>
+         </tr>
+         <td><span style="color:red"><%=(request.getAttribute("errMessage") == null) ? ""
+         : request.getAttribute("errMessage")%></span></td>
+         </tr>
+         <tr>
+         <td></td>
+         <td><input type="submit" value="Login" name='login-button'></input><input
+         type="reset" value="Reset"></input></td>
+         </tr>
+        </table>
+    </form>
+</body>
+</html>
